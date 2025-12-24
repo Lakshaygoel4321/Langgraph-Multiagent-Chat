@@ -1,0 +1,15 @@
+langchain
+langchain_groq
+langchain_community
+faiss-cpu
+langchain_huggingface
+langchain_core
+langgraph
+pypdf
+python-dotenv
+sentence-transformers
+ipykernel
+chromadb
+numpy
+langchain-tavily
+fastapi
